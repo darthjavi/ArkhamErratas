@@ -20,6 +20,20 @@
             "back": {
                 "type": "player"
             }
+        },
+        {
+            "name": "Yaotl",
+            "id": "a3796b88-ec5f-413e-8aaf-f5f5982c6653",
+            "amount": 2,
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
         }
     ],
     "encounter_sets": []

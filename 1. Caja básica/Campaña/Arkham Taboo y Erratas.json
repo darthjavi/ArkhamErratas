@@ -1,0 +1,40 @@
+{
+    "name": "Arkham Taboo y Erratas",
+    "id": "18a3133f-c5a6-4659-903e-84b8cb7d14c5",
+    "code": "ATEE",
+    "icon": "",
+    "meta": {
+        "dirty": []
+    },
+    "cards": [
+        {
+            "name": "Carta de los evos",
+            "id": "655fbe3d-7fcc-4a21-806e-5961782b0d73",
+            "amount": 2,
+            "front": {
+                "classes": [
+                    "reward"
+                ],
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Yaotl",
+            "id": "a3796b88-ec5f-413e-8aaf-f5f5982c6653",
+            "amount": 2,
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        }
+    ],
+    "encounter_sets": []
+}
